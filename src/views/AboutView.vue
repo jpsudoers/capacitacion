@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>DE NUEVO</h1>
+    <h1>Nuevo Commit</h1>
     <p> acá va a ir la información</p>
   </div>
 </template>
